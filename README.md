@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Ian!
 
-<!--
-**modaking/modaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-Stack Developer | IoT Enthusiast | OS & Low Level Programmer  
 
-Here are some ideas to get you started:
+- 🔹 Skilled in **Python**, **Flask**, **JavaScript**, **HTML**, and **CSS**  
+- 🔹 Learning **React** to integrate with **Flask backend**  
+- 🔹 Exploring **Assembly & C** for OS development & hardware programming  
+- 🔹 Experienced in **Arduino IoT development**  
+- 🔹 Learning **Bash** for system administration
+- - ⚡ Fun fact: Why do programmers prefer dark mode?...👉 Because light attracts bugs! 🐛
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about building scalable applications, low-level system programming, and IoT solutions.  
+
+📫 Connect with me on GitHub! Lets chat about collaborating!
+
+
+

@@ -7,7 +7,7 @@
 - 🔹 Exploring **Assembly & C** for OS development & hardware programming  
 - 🔹 Experienced in **Arduino IoT development**  
 - 🔹 Learning **Bash** for system administration
-- ⚡ Fun fact: Why do programmers prefer dark mode?...👉 Because light attracts bugs! 🐛
+- ⚡ Fun fact: Why do programmers prefer dark mode?... 👉 Because light attracts bugs! 🐛
 
 💻 Passionate about building scalable applications, low-level system programming, and IoT solutions.  
 

@@ -14,7 +14,3 @@
 
 📫 Connect with me on GitHub! Lets chat about collaborating!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=modaking&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modaking&layout=compact&theme=dark)
-

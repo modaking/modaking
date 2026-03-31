@@ -21,7 +21,7 @@ I design and build **scalable software**, **custom hardware solutions**, and **c
 
 ###  Fun Fact
 
-> Why do programmers prefer dark mode?  Because light attracts bugs! 
+> Why do programmers prefer dark mode? .... Because light attracts bugs! 
 
 ---
 
